@@ -1,0 +1,16 @@
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\bin\Release\IPT_assignment-2.exe.config
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\bin\Release\IPT_assignment-2.exe
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\bin\Release\IPT_assignment-2.pdb
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\bin\Release\FontAwesome.Sharp.dll
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\obj\Release\IPT_assignment-2.csproj.AssemblyReference.cache
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\obj\Release\IPT_assignment_2.Form1.resources
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\obj\Release\IPT_assignment_2.Form2.resources
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\obj\Release\IPT_assignment_2.Form3.resources
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\obj\Release\IPT_assignment_2.Form4.resources
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\obj\Release\IPT_assignment_2.Form5.resources
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\obj\Release\IPT_assignment_2.Properties.Resources.resources
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\obj\Release\IPT_assignment-2.csproj.GenerateResource.cache
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\obj\Release\IPT_assignment-2.csproj.CoreCompileInputs.cache
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\obj\Release\IPT_assignment-2.csproj.CopyComplete
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\obj\Release\IPT_assignment-2.exe
+C:\Users\johnv\source\repos\IPT\IPT_assignment-2\obj\Release\IPT_assignment-2.pdb
